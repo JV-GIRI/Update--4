@@ -13,7 +13,7 @@ import io
 from twilio.rest import Client  # <-- Twilio added
 
 st.set_page_config(layout="wide")
-st.title("💓 Dee's PCG analyzer")
+st.title("💓 HEARTEST : Giri's PCG analyzer")
 
 # Directories
 UPLOAD_FOLDER = "uploaded_audios"
